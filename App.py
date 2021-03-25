@@ -8,16 +8,7 @@ from tkinter import *
 import urllib.request
 import random
 from docx import Document
-#from docx.shared import Ibnches
 
-import os
-import requests
-from bs4 import BeautifulSoup
-import urllib.request
-from tkinter import *
-import urllib.request
-import random
-from docx import Document
 from docx.shared import Inches
 import datetime
 from datetime import date
