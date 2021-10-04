@@ -1,1 +1,7 @@
 Updating a new1 text file
+3. Type w after the colon and hit Enter. This will save in Vim the changes made to the file, without exiting.
+
+You can also rename an existing file by adding the new name after the commands.
+
+:w [newfilename]
+In the picture below, we renamed the existing example1.txt into newexample.
